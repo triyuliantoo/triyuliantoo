@@ -1,6 +1,6 @@
 # Hello everyone! I'm Tri Yulianto - [.Net Developer][website]
 
-## Software Engineer
+## About Me
 I'm currently working at NawaData Solutions as Dotnet Developer <img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2703/2703312.png"/>
 
 ## Languages & Frameworks:
