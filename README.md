@@ -11,7 +11,7 @@ I'm currently working at NawaData Solutions as Dotnet Developer
 - Java/Swift <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2586/2586488.png"></a>
 
 ## Connect
-- [triyulianto.id<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png" href="#"/>][website]
+- [Tri Yulianto<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png" href="#"/>][website]
 
 [website]: https://triyuliantoo.github.io
 [youtube]: https://youtube.com/triyulianto
