@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello everyone! I'm Tri Yulianto - [.Net Developer][triyuliantoo.github.io]
 
-<!--
-**triyuliantoo/triyuliantoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
+I'm currently working at NawaData Solutions as Dotnet Developer <img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2703/2703312.png"/>
 
-Here are some ideas to get you started:
+## Languages & Frameworks:
+- C# / PHP / C++ / SQL<img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/7838/7838457.png"/>
+- Web MVC/WinForm/VB<img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888954.png"/>
+- Windows Services<img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2592/2592498.png"/>
+- Java/Swift<img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2586/2586488.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- [triyulianto.id<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png"/>][website]
+
+[website]: https://triyulianto.github.io
+[youtube]: https://youtube.com/triyulianto
+[twitter]: https://twitter.com/triyuliantoo
+[linkedin]: https://linkedin.com/in/triyulianto
+[instagram]: https://instagram.com/_triyulianto
