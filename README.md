@@ -6,9 +6,9 @@ I'm currently working at NawaData Solutions as Dotnet Developer
 
 ## Languages & Frameworks:
 - C# / PHP / C++ / SQL<a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/7838/7838457.png"/></a>
-- Web MVC/WinForm/VB <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888954.png"/></a>
-- Windows Services <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2592/2592498.png"/></a>
-- Java/Swift <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2586/2586488.png"></a>
+- Web MVC/WinForm/VB/React/Vue <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888954.png"/></a>
+- Windows Services/SSIS <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2592/2592498.png"/></a>
+- Java/Swift/Flutter <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2586/2586488.png"></a>
 
 ## Connect
 - [Tri Yulianto<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png" href="#"/>][website]
