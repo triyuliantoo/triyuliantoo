@@ -1,4 +1,4 @@
-# Hello everyone! I'm Tri Yulianto - [.Net Developer][website]
+# Hello everyone! I'm Tri Yulianto - [Software Engineer][website]
 
 ## About Me
 I'm currently working at NawaData Solutions as Dotnet Developer 
