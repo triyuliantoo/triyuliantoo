@@ -1,7 +1,7 @@
 # Hello everyone! I'm Tri Yulianto - [Software Engineer][website]
 
 ## About Me
-I'm currently working at NawaData Solutions as Dotnet Developer 
+I'm currently working at PT. Bank Mandiri (Persero) Tbk.
 <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2703/2703312.png"/></a>
 
 ## Languages & Frameworks:
