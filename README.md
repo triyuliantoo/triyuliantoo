@@ -1,20 +1,22 @@
-# Hello everyone! I'm Tri Yulianto - [Software Engineer][website]
+# Hello everyone! I'm Tri Yulianto – [Software Engineer](https://triyuliantoo.github.io)
 
-## About Me
-I'm currently working at PT. Bank Mandiri (Persero) Tbk.
-<a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2703/2703312.png"/></a>
+## 👨‍💻 About Me
+I'm currently working at **PT. Bank Mandiri (Persero) Tbk**  
+🇮🇩 Based in Indonesia | ☕ Coffee Lover
 
-## Languages & Frameworks:
-- C# / PHP / C++ / SQL<a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/7838/7838457.png"/></a>
-- Web MVC/WinForm/VB/React/Vue <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/888/888954.png"/></a>
-- Windows Services/SSIS <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2592/2592498.png"/></a>
-- Java/Swift/Flutter <a href="#"><img align="left" alt="android" width="22px" src="https://cdn-icons-png.flaticon.com/512/2586/2586488.png"></a>
+## 🛠️ Languages & Frameworks
+- 💻 **Programming Languages:** C#, PHP, C++, SQL  
+- 🌐 **Web & Desktop:** ASP.NET MVC, WinForms, VB.NET, React, Vue  
+- ⚙️ **Services & ETL:** Windows Services, SSIS  
+- 📱 **Mobile:** Java (Android), Swift (iOS), Flutter
 
-## Connect
-- [Tri Yulianto<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png" href="#"/>][website]
+## 🌍 Connect with Me
+[![Website](https://img.shields.io/badge/Website-triyuliantoo.github.io-informational?style=flat&logo=google-chrome)](https://triyuliantoo.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tri%20Yulianto-blue?style=flat&logo=linkedin)](https://linkedin.com/in/triyulianto)  
+[![Twitter](https://img.shields.io/badge/Twitter-@triyuliantoo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/triyuliantoo)  
+[![Instagram](https://img.shields.io/badge/Instagram-@_triyulianto-E4405F?style=flat&logo=instagram)](https://instagram.com/_triyulianto)  
+[![Email](https://img.shields.io/badge/Email-triyuliantoo@live.com-informational?style=flat&logo=microsoft-outlook)](mailto:triyuliantoo@live.com)
 
-[website]: https://triyuliantoo.github.io
-[youtube]: https://youtube.com/triyulianto
-[twitter]: https://twitter.com/triyuliantoo
-[linkedin]: https://linkedin.com/in/triyulianto
-[instagram]: https://instagram.com/_triyulianto
+---
+
+📌 *Thanks for visiting my profile! Feel free to explore my repositories.*
