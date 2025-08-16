@@ -1,7 +1,7 @@
 # Hello everyone! I'm Tri Yulianto – [Software Engineer](https://triyuliantoo.github.io)
 
 ## 👨‍💻 About Me
-I'm currently working at one of the leading national banks in Indonesia.  
+I'm currently working as Software Engineer in Indonesia.  
 🇮🇩 Based in Indonesia | ☕ Coffee Lover
 
 ## 🛠️ Languages & Frameworks
